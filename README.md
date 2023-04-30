@@ -8,6 +8,7 @@ Code was tested with following specs:
 - cuDNN v11.8
 - Tensorflow-GPU 2.9.2
 - Code was tested on only Windows 11
+- You need custom_dataset to train the code (it's not an open source sorry)
 
 ## Installation
 First, clone or download this GitHub repository.
