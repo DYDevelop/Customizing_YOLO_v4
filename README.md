@@ -1,32 +1,19 @@
-# TensorFlow-2.x-YOLOv3 and YOLOv4 tutorials
+# Customizing YOLO v4 to Detect Parking Spaces
 
 YOLOv3 and YOLOv4 implementation in TensorFlow 2.x, with support for training, transfer training, object tracking mAP and so on...
 Code was tested with following specs:
-- i7-7700k CPU and Nvidia 1080TI GPU
-- OS Ubuntu 18.04
-- CUDA 10.1
-- cuDNN v7.6.5
-- TensorRT-6.0.1.5
-- Tensorflow-GPU 2.3.1
-- Code was tested on Ubuntu and Windows 10 (TensorRT not supported officially)
+- R5 5600X CPU and Nvidia RTX 3080 GPU
+- OS Windows 11
+- CUDA 11.7
+- cuDNN v11.8
+- Tensorflow-GPU 2.9.2
+- Code was tested on only Windows 11
 
 ## Installation
 First, clone or download this GitHub repository.
-Install requirements and download pretrained weights:
+Install requirements:
 ```
 pip install -r ./requirements.txt
-
-# yolov3
-wget -P model_data https://pjreddie.com/media/files/yolov3.weights
-
-# yolov3-tiny
-wget -P model_data https://pjreddie.com/media/files/yolov3-tiny.weights
-
-# yolov4
-wget -P model_data https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
-
-# yolov4-tiny
-wget -P model_data https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights
 ```
 
 ## Quick start
