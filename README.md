@@ -39,7 +39,8 @@ pip install -r ./requirements.txt
 
 ## Results
 - Yellow : Slot is Occupied
-- Red : Slot is Empty    
+- Red : Slot is Empty
+  
 ![Result](IMAGES/Results0.png)  
 ![Result](IMAGES/Results1.png)  
 ![Result](IMAGES/Results2.png)  
