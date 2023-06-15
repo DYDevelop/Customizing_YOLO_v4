@@ -32,5 +32,13 @@ pip install -r ./requirements.txt
 ![Train](IMAGES/Train1_1.png)  
 
 ## Loss Function
+![Loss](IMAGES/Loss.png)  
 
+## Training
+![Training](IMAGES/Training.png)  
+
+## Results
+![Result](IMAGES/Results0.png)  
+![Result](IMAGES/Results1.png)  
+![Result](IMAGES/Results2.png)  
 
