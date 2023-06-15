@@ -30,3 +30,7 @@ pip install -r ./requirements.txt
 
 ![Train](IMAGES/Train1.png)  
 ![Train](IMAGES/Train1_1.png)  
+
+## Loss Function
+
+
