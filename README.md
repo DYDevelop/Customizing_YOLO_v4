@@ -25,6 +25,6 @@ pip install -r ./requirements.txt
 
 ## Traing with Custom Dataset
 ![Train](IMAGES/Train0.png)  
-Decoding Code
+### Decoding Code
 ![Train](IMAGES/Train1.png)  
 ![Train](IMAGES/Train1_1.png)  
