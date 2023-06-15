@@ -24,3 +24,4 @@ pip install -r ./requirements.txt
 ![Dataset](IMAGES/Dataset3.png)  
 
 ## Traing with Custom Dataset
+![Train](IMAGES/Train0.png)  
